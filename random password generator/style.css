@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to right, rgb(255, 202, 104), lightblue);
+}
+.container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .password-container {
+    margin-top: 20px;
+  }
+  
+  #password {
+    width: 300px;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  #generate-btn {
+    padding: 15px 20px;
+    font-size: 16px;
+    background-color: orange;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  #copy-it{
+    padding: 15px 20px;
+    font-size: 16px;
+    background-color: skyblue;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
